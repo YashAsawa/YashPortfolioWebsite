@@ -14,6 +14,7 @@
 body{
     
     font-family:'Poppins',sans-serif;
+    style="zoom:80%";
     
 }
 
@@ -33,12 +34,14 @@ html{
 header{
     background: var(--dark);
     clip-path:polygon(0 0,100% 0,100% 100%,70% 92%,0 100%);
+    style="zoom:80%";
 }
 
 .container{
     max-width:1500px;
     padding:0 15px;
     margin:0 auto;
+    style="zoom:80%";
 }
 
 
