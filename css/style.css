@@ -32,8 +32,6 @@ html{
 header{
     background: var(--dark);
     clip-path:polygon(0 0,100% 0,100% 100%,70% 92%,0 100%);
-    transform:scale(0.8);
-    margin-top:-5.5rem;
   
 }
 
