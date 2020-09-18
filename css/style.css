@@ -14,13 +14,13 @@
 body{
     
     font-family:'Poppins',sans-serif;
-    style:"zoom:80%";
+    
     
 }
 
 html{
     scroll-behavior:smooth;
-    zoom:"80%";
+   
 }
 
 *{
@@ -28,20 +28,20 @@ html{
     margin:0;
     box-sizing:border-box;
     -webkit-font-smoothing:antialiased;
-    transform:scale(0.8);
+    
 }
 
 header{
     background: var(--dark);
     clip-path:polygon(0 0,100% 0,100% 100%,70% 92%,0 100%);
-   transform:scale(0.8);
+  
 }
 
 .container{
     max-width:1500px;
     padding:0 15px;
     margin:0 auto;
-    transform:scale(0.8);
+   
 }
 
 
